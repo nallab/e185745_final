@@ -10,5 +10,5 @@
 - 手順4：MitiData下にはNoHeaderにMITIコードがコーディングされているPDFデータを置く。
 - 手順5：MitiData下にHighLowQualityCounselingを置き、その下にtranscriptsをおき、このtranscripts下に動機付け面接のデータを置く。
 
-階層構造は以下のようになります。
+階層構造はこのようになります。
 <img width="337" alt="スクリーンショット 2022-03-17 15 16 47" src="https://user-images.githubusercontent.com/44591809/158748488-f63e1f4c-9bd9-421b-a132-2b35e6adf8ea.png">
